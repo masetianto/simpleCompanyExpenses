@@ -1,0 +1,3 @@
+mengetahui total pengeluaran perusahaan denga menerapkan OOP pada Python.
+Step 1: melakukan simulasi dengan program yang dibuat
+Step 2: menghitung total pengeluaran perusahaan dengan menguji fungsionalitas konsep dan teknik polymorphism
